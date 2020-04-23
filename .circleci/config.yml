@@ -7,4 +7,3 @@ workflows:
   Welcome:
     jobs:
       - welcome/run
-
